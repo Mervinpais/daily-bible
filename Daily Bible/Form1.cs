@@ -15,14 +15,11 @@ namespace Daily_Bible
 
         private void Form1_Load(object sender, System.EventArgs e)
         {
-            Thread.Sleep(2500);
+            Thread.Sleep(1250); //just ignore this
             try
             {
-                using (WebClient client = new WebClient()) // WebClient class inherits IDisposable
+                using (WebClient client = new WebClient())
                 {
-                    client.DownloadFile("https://www.verseoftheday.com/", @"C:\Windows\Temp\bible_verse_website.html");
-
-                    // Or you can get the file content without saving it
                     string htmlCode = client.DownloadString("https://www.verseoftheday.com/");
                     htmlCode = htmlCode.Substring(htmlCode.IndexOf("<div class=\"bilingual-left\">"));
                     htmlCode = htmlCode.Substring(0, htmlCode.IndexOf("<div class=\"end-scripture\"></div>"));
