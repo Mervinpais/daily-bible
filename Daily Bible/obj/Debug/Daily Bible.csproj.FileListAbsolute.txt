@@ -1,0 +1,11 @@
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\bin\Debug\Daily Bible.exe.config
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\bin\Debug\Daily Bible.exe
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\bin\Debug\Daily Bible.pdb
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily Bible.csproj.AssemblyReference.cache
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily Bible.csproj.SuggestedBindingRedirects.cache
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily_Bible.Form1.resources
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily_Bible.Properties.Resources.resources
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily Bible.csproj.GenerateResource.cache
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily Bible.csproj.CoreCompileInputs.cache
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily Bible.exe
+C:\Users\mervi\source\repos\Daily Bible\Daily Bible\obj\Debug\Daily Bible.pdb
